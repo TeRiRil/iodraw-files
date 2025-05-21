@@ -46,6 +46,9 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-68" value="余额充足且未双花" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="460" y="300" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-69" target="NbNi8xjFhcdpYn_VRtkJ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-69" value="生成zkp证明并上链" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="420" width="120" height="60" as="geometry" />
         </mxCell>
@@ -68,7 +71,10 @@
           <mxGeometry x="480" y="384" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-79" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="260" y="590" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-81" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="660" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
