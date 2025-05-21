@@ -97,7 +97,7 @@
           <mxGeometry x="600" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-89" value="扣除验证者押金" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="324" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-92" value="触发代币转移" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="760" y="420" width="120" height="60" as="geometry" />
