@@ -22,6 +22,17 @@
         <mxCell id="bymDlrXMCZD8e6k1x_44-8" value="Solana本地节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="480" y="120" width="100" height="400" as="geometry" />
         </mxCell>
+        <mxCell id="bymDlrXMCZD8e6k1x_44-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bymDlrXMCZD8e6k1x_44-8">
+          <mxGeometry x="50" y="290" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bymDlrXMCZD8e6k1x_44-35" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bymDlrXMCZD8e6k1x_44-34" parent="bymDlrXMCZD8e6k1x_44-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="270" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="85" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-9" value="P2P用户节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="640" y="120" width="100" height="400" as="geometry" />
         </mxCell>
@@ -77,18 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-31" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="440" width="480" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="460" y="370" width="10" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-35" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bymDlrXMCZD8e6k1x_44-34" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="465" y="350" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="495" y="380" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="50" y="480" width="480" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
