@@ -68,7 +68,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-72" target="NbNi8xjFhcdpYn_VRtkJ-96">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="270" y="360" />
+              <mxPoint x="320" y="360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-72" value="格式是否合法" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="120" width="80" height="80" as="geometry" />
