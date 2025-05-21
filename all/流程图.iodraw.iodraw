@@ -13,7 +13,7 @@
         <mxCell id="kEG7ShzsdshP6sT67uSu-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="220" width="360" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="kEG7ShzsdshP6sT67uSu-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kEG7ShzsdshP6sT67uSu-5" value="用户链上信息&lt;br&gt;（rust+actix）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="250" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
