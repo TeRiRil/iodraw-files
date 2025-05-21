@@ -10,14 +10,6 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-55" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="50" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-57">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-57" target="NbNi8xjFhcdpYn_VRtkJ-70">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-57" value="监听节点验证数据格式" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
         </mxCell>
