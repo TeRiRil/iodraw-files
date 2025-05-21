@@ -87,7 +87,7 @@
             <mxPoint x="770" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-31" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="bymDlrXMCZD8e6k1x_44-31" value="a&#39;l&#39;talt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="440" width="800" height="70" as="geometry" />
         </mxCell>
       </root>
