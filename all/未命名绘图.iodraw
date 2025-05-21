@@ -67,9 +67,6 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-81" target="NbNi8xjFhcdpYn_VRtkJ-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-81" target="NbNi8xjFhcdpYn_VRtkJ-92">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-81" value="验证zkp证明" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="620" y="410" width="80" height="80" as="geometry" />
         </mxCell>
