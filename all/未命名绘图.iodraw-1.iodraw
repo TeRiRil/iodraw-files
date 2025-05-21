@@ -31,10 +31,16 @@
             <mxPoint x="110" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-12" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="bymDlrXMCZD8e6k1x_44-7">
+        <mxCell id="bymDlrXMCZD8e6k1x_44-12" value="提交异步任务" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;" edge="1" parent="1" target="bymDlrXMCZD8e6k1x_44-7">
           <mxGeometry width="60" relative="1" as="geometry">
             <mxPoint x="210" y="210" as="sourcePoint" />
             <mxPoint x="270" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bymDlrXMCZD8e6k1x_44-13" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="300" as="sourcePoint" />
+            <mxPoint x="370" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
