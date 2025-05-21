@@ -25,7 +25,7 @@
         <mxCell id="bymDlrXMCZD8e6k1x_44-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bymDlrXMCZD8e6k1x_44-8">
           <mxGeometry x="46" y="270" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-35" value="self call" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bymDlrXMCZD8e6k1x_44-34" parent="bymDlrXMCZD8e6k1x_44-8">
+        <mxCell id="bymDlrXMCZD8e6k1x_44-35" value="智能合约验证ZPK证明" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bymDlrXMCZD8e6k1x_44-34" parent="bymDlrXMCZD8e6k1x_44-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="51" y="250" as="sourcePoint" />
             <Array as="points">
