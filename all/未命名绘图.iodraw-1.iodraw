@@ -55,10 +55,10 @@
             <mxPoint x="440" y="269.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-17" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="bymDlrXMCZD8e6k1x_44-17" value="返回账户数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="bymDlrXMCZD8e6k1x_44-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="450" y="300" as="sourcePoint" />
-            <mxPoint x="370" y="300" as="targetPoint" />
+            <mxPoint x="530" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
