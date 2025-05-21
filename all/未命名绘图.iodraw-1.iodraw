@@ -90,10 +90,13 @@
         <mxCell id="bymDlrXMCZD8e6k1x_44-31" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="440" width="800" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="bymDlrXMCZD8e6k1x_44-37" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" target="bymDlrXMCZD8e6k1x_44-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="50" y="509.5" as="sourcePoint" />
             <mxPoint x="130" y="509.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="510" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
