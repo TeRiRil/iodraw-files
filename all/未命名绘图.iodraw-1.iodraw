@@ -114,7 +114,7 @@
         <mxCell id="bymDlrXMCZD8e6k1x_44-42" value="回滚交易批次" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="560" as="sourcePoint" />
-            <mxPoint x="370" y="560" as="targetPoint" />
+            <mxPoint x="380" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-43" value="触发代币转移" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" target="bymDlrXMCZD8e6k1x_44-20">
