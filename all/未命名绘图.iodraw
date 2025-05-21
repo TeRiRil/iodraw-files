@@ -100,7 +100,7 @@
           <mxGeometry x="600" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-92" value="触发代币转移" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="760" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-95" value="Y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="691" y="426" width="60" height="30" as="geometry" />
