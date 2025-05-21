@@ -103,9 +103,6 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-92" value="触发代币转移" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="720" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-95" value="Y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="960" y="550" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-96" value="标记为无效交易" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
         </mxCell>
