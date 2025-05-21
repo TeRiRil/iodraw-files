@@ -31,7 +31,7 @@
         <mxCell id="bymDlrXMCZD8e6k1x_44-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bymDlrXMCZD8e6k1x_44-10">
           <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-25" value="生成ZPK证明" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bymDlrXMCZD8e6k1x_44-24" parent="bymDlrXMCZD8e6k1x_44-10">
+        <mxCell id="bymDlrXMCZD8e6k1x_44-25" value="生成ZPK证明并&lt;br&gt;聚合到Merkle Tree" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" target="bymDlrXMCZD8e6k1x_44-24" parent="bymDlrXMCZD8e6k1x_44-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="50" y="180" as="sourcePoint" />
             <Array as="points">
