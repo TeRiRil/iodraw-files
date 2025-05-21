@@ -99,8 +99,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-38" value="Title" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="390" width="80" height="26" as="geometry" />
+        <mxCell id="bymDlrXMCZD8e6k1x_44-38" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;[验证通过]&lt;/span&gt;" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="80" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
