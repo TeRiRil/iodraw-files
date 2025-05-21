@@ -79,7 +79,7 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-83" value="丢弃交易" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-87" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-87" value="回滚整个批次" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="600" y="324" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
