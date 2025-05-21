@@ -76,6 +76,9 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-113" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-81" target="NbNi8xjFhcdpYn_VRtkJ-87">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-117" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-81" target="NbNi8xjFhcdpYn_VRtkJ-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-81" value="验证zkp证明" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="580" y="150" width="80" height="80" as="geometry" />
         </mxCell>
@@ -104,7 +107,7 @@
           <mxGeometry x="230" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-98" value="结束" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="560" width="120" height="30" as="geometry" />
+          <mxGeometry x="720" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-101" value="N" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="410" width="60" height="30" as="geometry" />
