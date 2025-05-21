@@ -52,6 +52,9 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-72" target="NbNi8xjFhcdpYn_VRtkJ-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-72" target="NbNi8xjFhcdpYn_VRtkJ-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-72" value="格式是否合法" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="420" width="80" height="80" as="geometry" />
         </mxCell>
@@ -63,6 +66,9 @@
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-78" value="Y" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="384" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-79" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
