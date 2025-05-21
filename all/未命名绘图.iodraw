@@ -73,8 +73,8 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-79" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="260" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-81" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="660" y="410" width="80" height="80" as="geometry" />
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-81" value="验证zkp证明" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="600" y="410" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
