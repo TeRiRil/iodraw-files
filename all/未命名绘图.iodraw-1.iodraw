@@ -107,8 +107,8 @@
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-41" value="扣除质押代币" style="html=1;verticalAlign=bottom;startArrow=oval;startFill=1;endArrow=block;startSize=8;curved=0;rounded=0;entryX=0.996;entryY=0.706;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="60" relative="1" as="geometry">
-            <mxPoint x="540" y="540" as="sourcePoint" />
-            <mxPoint x="856.8" y="538.8399999999999" as="targetPoint" />
+            <mxPoint x="534" y="540" as="sourcePoint" />
+            <mxPoint x="850.8" y="538.8399999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-42" value="回滚交易批次" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1">
