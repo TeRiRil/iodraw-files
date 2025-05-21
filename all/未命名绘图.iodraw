@@ -10,6 +10,9 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-55" value="开始" style="shape=mxgraph.flowchart.terminator;strokeWidth=2;gradientColor=none;gradientDirection=north;fontStyle=0;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="90" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-57" target="NbNi8xjFhcdpYn_VRtkJ-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-57" value="监听节点验证数据格式" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="230" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -44,6 +47,9 @@
           <mxGeometry x="140" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-72" target="NbNi8xjFhcdpYn_VRtkJ-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-72" target="NbNi8xjFhcdpYn_VRtkJ-96">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-72" value="格式是否合法" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
