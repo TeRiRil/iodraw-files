@@ -34,10 +34,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-9" value="P2P用户节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="640" y="120" width="100" height="400" as="geometry" />
+          <mxGeometry x="640" y="120" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-10" value="P2P验证节点" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="800" y="120" width="100" height="400" as="geometry" />
+          <mxGeometry x="800" y="120" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-24" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="bymDlrXMCZD8e6k1x_44-10">
           <mxGeometry x="45" y="200" width="10" height="40" as="geometry" />
@@ -88,7 +88,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-31" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="440" width="800" height="70" as="geometry" />
+          <mxGeometry x="50" y="440" width="800" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
