@@ -43,6 +43,9 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-68" value="余额充足且未双花" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="420" y="250" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-69" target="NbNi8xjFhcdpYn_VRtkJ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-69" value="生成zkp证明并上链" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="260" width="120" height="60" as="geometry" />
         </mxCell>
@@ -65,7 +68,7 @@
           <mxGeometry x="870" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-81" value="验证zkp证明" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="620" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="580" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-83" value="丢弃交易" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="790" y="250" width="120" height="60" as="geometry" />
