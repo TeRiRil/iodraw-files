@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bymDlrXMCZD8e6k1x_44-4" value="前端（rust+yew）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry y="120" width="100" height="400" as="geometry" />
+          <mxGeometry y="120" width="100" height="480" as="geometry" />
         </mxCell>
         <mxCell id="bymDlrXMCZD8e6k1x_44-5" value="后端（rust+actix）" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="160" y="120" width="100" height="400" as="geometry" />
@@ -87,7 +87,7 @@
             <mxPoint x="770" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bymDlrXMCZD8e6k1x_44-31" value="a&#39;l&#39;talt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+        <mxCell id="bymDlrXMCZD8e6k1x_44-31" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="440" width="800" height="70" as="geometry" />
         </mxCell>
       </root>
