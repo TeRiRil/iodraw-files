@@ -37,17 +37,6 @@
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-66" value="PoS验证者获取交易并验证" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="360" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-68" target="NbNi8xjFhcdpYn_VRtkJ-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NbNi8xjFhcdpYn_VRtkJ-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NbNi8xjFhcdpYn_VRtkJ-68" target="NbNi8xjFhcdpYn_VRtkJ-83">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="580" y="340" />
-              <mxPoint x="580" y="130" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="NbNi8xjFhcdpYn_VRtkJ-68" value="余额充足且未双花" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="334" width="80" height="80" as="geometry" />
         </mxCell>
